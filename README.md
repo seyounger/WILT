@@ -15,9 +15,12 @@ Please read the paper to fully understand the methods before trying to run the t
 + Open Arc map
 + Navigate to and open the WILT toolbox
 + Double click the WILT tool to open it
-+ Provide points for water elevations (either streams or water bodies), a DEM, a workspace and file prefix
++ Select a location to save outputs to. (The resulting WILT map)
++ Provide water cell points (a point shapefile of known surface water locations, which will be used to extract the elevation)
++ Provide a bare earth DEM for the study area
++ Give the output files a prefix to identify the run
 + Click Ok
-+ The resulting WILT raster has WILT at the end of the filename
++ The resulting WILT raster will be in the output folder
 
 ## Notes:
 
