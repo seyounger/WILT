@@ -15,8 +15,8 @@ Please read the paper to fully understand the methods before trying to run the t
 + Open Arc map
 + Navigate to and open the WILT toolbox
 + Double click the WILT tool to open it
-+ Select a location to save outputs to. (The resulting WILT map)
-+ Provide water cell points (a point shapefile of known surface water locations, which will be used to extract the elevation)
++ Select a location to save outputs to. (the resulting WILT map)
++ Provide water cell points (a point shapefile of known surface water locations, which will be used to extract the elevation at said locations)
 + Provide a bare earth DEM for the study area
 + Give the output files a prefix to identify the run
 + Click Ok
