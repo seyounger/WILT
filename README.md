@@ -20,7 +20,7 @@ Please read the paper to fully understand the methods before trying to run the t
 + Provide a bare earth DEM for the study area
 + Give the output files a prefix to identify the run
 + Click Ok
-+ The resulting WILT raster will be in the output folder
++ If the run is successful a WILT raster will be in the output folder
 
 ## Notes:
 
