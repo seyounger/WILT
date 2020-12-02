@@ -8,7 +8,7 @@ An Arcpy script to calculate WILT as described in [Wetness index based on landsc
 + Spatial Analyst extension enabled
 + 3D Analyst Extension enabled
 
-## Instructions to run the tool in ArcGIS:
+## Instructions to run the tool and calculate WILT:
 
 Please read the paper to fully understand the methods before trying to run the tool https://doi.org/10.1016/j.jenvman.2019.109863
 
