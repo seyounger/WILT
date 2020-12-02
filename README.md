@@ -21,5 +21,5 @@ Please read the paper to fully understand the methods before trying to run the t
 
 ## Notes:
 
-+ If you run the tool multiple times you will need to delete the raster value field in the water points file.
-+ Make sure the extensions are enabled.
++ If you run the tool multiple times you will need to delete the raster value field in the water points file prior to the next run.
++ Make sure the 3D and Spatial Analyst extensions are enabled.
