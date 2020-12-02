@@ -22,7 +22,7 @@ Please read the paper to fully understand the methods before trying to run the t
 + Click Ok
 + If the run is successful a WILT raster will be in the output folder
 
-<img src="./WILT_tool.png" width="600">
+<img src="./WILT_tool.png" width="800">
 
 ## Notes:
 
