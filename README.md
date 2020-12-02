@@ -22,7 +22,7 @@ Please read the paper to fully understand the methods before trying to run the t
 + Click Ok
 + If the run is successful a WILT raster will be in the output folder
 
-![](WILT tool.png)
+![test]('WILT tool.png')
 
 ## Notes:
 
