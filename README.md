@@ -22,6 +22,8 @@ Please read the paper to fully understand the methods before trying to run the t
 + Click Ok
 + If the run is successful a WILT raster will be in the output folder
 
+![alt text](WILT tool.png "Title")
+
 ## Notes:
 
 + If you run the tool multiple times you will need to delete the raster value field in the water points file prior to the next run or you will encounter an error at the 'extract values to points' step.
